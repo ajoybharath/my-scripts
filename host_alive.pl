@@ -38,12 +38,7 @@ if (@dead_hosts) {
 }
 
 __DATA__
-www.cellrenew.in
-www.engagedeo.com
+google.com
+ajoybharath.in
 www.kwiknic.in
 www.kitchensofindia.com
-www.mycandymanclub.com
-www.sunfeastdarkfantasy.com
-www.fiamadiwillsmen.in
-www.fiamadiwills.com
-mail.echoupal.com
